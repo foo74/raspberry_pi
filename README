@@ -1,0 +1,5 @@
+Some code to work with Raspberry Pi
+
+Make sure to install the WiringPi library from: wiringpi.com
+
+to compile: gcc -Wall myblink.c -o myblink -lwiringPi
